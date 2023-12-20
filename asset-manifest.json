@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ishanph2005/static/css/main.c3ef4bbe.css",
+    "main.js": "/ishanph2005/static/js/main.ed215122.js",
+    "static/js/787.d4aba7ab.chunk.js": "/ishanph2005/static/js/787.d4aba7ab.chunk.js",
+    "static/media/wooden_bag.jpg": "/ishanph2005/static/media/wooden_bag.f6cae805e2a1ce668d05.jpg",
+    "index.html": "/ishanph2005/index.html",
+    "main.c3ef4bbe.css.map": "/ishanph2005/static/css/main.c3ef4bbe.css.map",
+    "main.ed215122.js.map": "/ishanph2005/static/js/main.ed215122.js.map",
+    "787.d4aba7ab.chunk.js.map": "/ishanph2005/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3ef4bbe.css",
+    "static/js/main.ed215122.js"
+  ]
+}
